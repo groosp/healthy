@@ -69,13 +69,55 @@ h1 span {
 }
 
 .content a {
-	
-	
-	
-	
-	
-
 }
+
+.social-btn {
+  list-style: none;  
+}
+
+.main-nav li {
+  
+}
+
+.social-btn a {  
+  text-decoration: none;
+}
+
+.slider-mark {
+  font-family: FontAwesome;
+  font-size: 15px;  
+  color: rgb(136, 136, 136);  
+}
+
+.slider-elements .slider-mark span {
+  font-size: 15px;  
+  color: rgb(129, 178, 10);  
+}
+
+.slider-numbering {
+	font-size: 25px;  
+  	color: rgb(129, 178, 10);
+  	font-weight: 700;  
+}
+
+.slider-elements .slider-numbering sup {
+  font-size: 13px;    
+  color: rgb(136, 136, 136);  
+  font-weight: 300;   
+}
+
+.controls {
+  list-style: none;  
+}
+
+.controls a {  
+  text-decoration: none;  
+}
+
+
+
+
+
 
 
 
