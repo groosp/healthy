@@ -119,6 +119,7 @@ h1 span {
     align-items: center;
     justify-content: flex-end;
     height: 100%;
+    margin-top: 
 
 }
 
@@ -185,9 +186,55 @@ h1 span {
 }
 
 .shop-item :nth-child(3) {
-	
+
 }
 
+.about-company {
+	background-image: url("img/about-bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.about-top-text {
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: 540;
+}
+
+.company-features {
+	list-style: none;
+}
+
+.specific-feature h2 {
+	font-family: Helvetica;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.specific-feature h2 span {	
+	font-weight: 300;
+}
+
+.feature-text {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+.specific-feature a {	
+	text-decoration: none;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: rgb(186, 195,195);
+	display: inline-block;
+	background: rgb(255,255,255);
+	border-radius: 25px;
+	width: 126px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+
+}
 
 
 
